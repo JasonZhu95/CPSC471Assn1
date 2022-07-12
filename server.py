@@ -3,9 +3,9 @@ from socket import *
 import sys # In order to terminate the program  
 
 serverSocket = socket(AF_INET, SOCK_STREAM)
-serverPort = 6789
 
 #Prepare a server socket
+serverPort = 6789
 serverSocket.bind(('', serverPort))
 serverSocket.listen(1)
 
