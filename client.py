@@ -1,11 +1,12 @@
 from socket import *
 import sys
 
+#Check Amount of Parameters
 if len(sys.argv) < 4:
     print("Invalid Parameters: client.py server_host server_port filename")
     sys.exit(-1)
     
-# Command Line Parameters
+#Command Line Parameters
 server_host = sys.argv[1]
 server_port = int(sys.argv[2])
 filename = sys.argv[3]
