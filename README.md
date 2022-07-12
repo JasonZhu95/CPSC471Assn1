@@ -12,8 +12,9 @@ Jason Zhu (jzhu95@csu.fullerton.edu)
 5. Enter and should return a Hello World Page.
 
 ## Instructions on Running client.py
-1. Ensure that server.py is already running using above steps.
-2. If Windows Open Command Prompt, If Linux Open Terminal
+1. Download client.py to a memorable folder.
+2. Ensure that server.py is already running using above steps.
+3. If Windows Open Command Prompt, If Linux Open Terminal
   a. Navigate to where the files are located using cd "pathhere"
-3. Type "client.py server_host server_port filename" example "client.py 192.000.0.000 6789 HelloWorld.html"
-4. Command Prompt/Terminal will print a message showing server response.
+4. Type "client.py server_host server_port filename" example "client.py 192.000.0.000 6789 HelloWorld.html"
+5. Command Prompt/Terminal will print a message showing server response.
