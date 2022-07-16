@@ -2,6 +2,7 @@
 
 ## Members
 Jason Zhu (jzhu95@csu.fullerton.edu)
+Miles Furnish (milesf7@csu.fullerton.edu)
 
 ## Instructions On Running server.py
 1. Download server.py and HelloWorld.html to a memorable folder.
